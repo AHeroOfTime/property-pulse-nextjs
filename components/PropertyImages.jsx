@@ -8,7 +8,7 @@ const PropertyImages = ({ images }) => {
           <Image
             src={images[0]}
             alt=''
-            className='object-cover h-[400px] mx-auto rounded-xl'
+            className='object-cover h-[400px] w-auto mx-auto rounded-xl'
             width={1800}
             height={400}
             // priorty={true}
@@ -27,7 +27,7 @@ const PropertyImages = ({ images }) => {
                 <Image
                   src={image}
                   alt=''
-                  className='object-cover h-[400px] w-full rounded-xl'
+                  className='object-cover h-[400px] w-auto rounded-xl'
                   width={1800}
                   height={400}
                   // priorty={true}
