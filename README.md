@@ -1,4 +1,4 @@
-This project is live and hosted on Vercel at [Property Pulse](https://property-pulse-nextjs-nfvowktub.vercel.app/)
+This project is live and hosted on Vercel at [Property Pulse](https://property-pulse-nextjs-nfvowktub.vercel.app/){:target="\_blank"}
 
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
